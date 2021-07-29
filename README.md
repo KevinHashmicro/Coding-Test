@@ -1,9 +1,12 @@
 im using django framework, install first with 
-|pip install django|
+
+"pip install django"
+
 in command line
 
 to run server
-|python manage.py runserver|
+
+"python manage.py runserver"
 
 username : user
 password : Minimal8
